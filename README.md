@@ -1,8 +1,8 @@
-<h1>Shopping App</h1>
+<h1>Blog App</h1>
 
 <!-- <img src="./src/assets/image/screen (1).gif" alt="Netflix" /> -->
 
-<h3>React JS , Redux , Bootstrap</h3>
+<h3>React JS , RTK-QUERY , Bootstrap</h3>
 <p>
 1.React Functional components and their reusability
 2.React file and folder structure
